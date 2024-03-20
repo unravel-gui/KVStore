@@ -68,7 +68,7 @@ Candidate：只有在选举Leader时出现，是一个过渡状态负责选举�
 
 ## 成员变更
 
-[![pFWo5lj.png](https://s21.ax1x.com/2024/03/20/pFWo5lj.png)](https://imgse.com/i/pFWo5lj)
+![](changeStatus.png)
 
 
 
